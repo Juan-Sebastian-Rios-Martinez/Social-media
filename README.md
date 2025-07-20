@@ -11,13 +11,5 @@
 &nbsp;
 
 
-<a href="#">
-  <img width="90%"
-            src="https://github.com/user-attachments/assets/78f56055-bd0a-4858-bb93-e69000532345" />
-    </a>  
-
-
-&nbsp;
-
 
 
